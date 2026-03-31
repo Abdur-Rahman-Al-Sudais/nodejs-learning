@@ -1,0 +1,7 @@
+{
+  "jwtSecret": "JWT_SECRET",
+  "useDatabase": {
+    "__name": "USE_DATABASE",
+    "__format": "json"
+  }
+}

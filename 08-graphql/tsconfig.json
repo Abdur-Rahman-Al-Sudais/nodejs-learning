@@ -1,0 +1,14 @@
+{
+  "extends": "@tsconfig/node24/tsconfig.json",
+  "compilerOptions": {
+    // Project-specific overrides/additions
+    "outDir": "./build", // Output directory for compiled JS files
+    "rootDir": "./src", // Source directory for TypeScript files
+    "verbatimModuleSyntax": true, // Recommended for strict control over imports/exports
+    "allowImportingTsExtensions": true, // Allows importing files with .ts extensions
+    "allowArbitraryExtensions": true,
+    "noEmit": true // Use if running TypeScript natively in Node or using a transpiler like tsx/esbuild
+  },
+  "include": ["src/**/*"], // Specify which files to include in compilation
+  "exclude": ["node_modules"] // Exclude unnecessary files
+}
