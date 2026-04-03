@@ -12,3 +12,4 @@ A collection of all my Node.js learning examples and experiments.
 - [06 - Winston Logger](./06-winston-logger)
 - [07 - Env Config](./07-env-config)
 - [08 - GraphQL](./08-graphql)
+- [09 - Prettier/Eslint](./09-prettier-eslint)
