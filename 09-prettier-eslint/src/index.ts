@@ -1,1 +1,1 @@
-'linting errors removed'
+'linting errors removed';
