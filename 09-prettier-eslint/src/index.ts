@@ -30,5 +30,6 @@ const user = {name: name, age: age, city: city}
 greet(user)
 fetchData()
 fetchData()
+fetchData()
 multiply(2,   3)
 multiply(2,   3)
