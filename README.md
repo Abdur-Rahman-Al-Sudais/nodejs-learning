@@ -13,3 +13,4 @@ A collection of all my Node.js learning examples and experiments.
 - [07 - Env Config](./07-env-config)
 - [08 - GraphQL](./08-graphql)
 - [09 - Prettier/Eslint](./09-prettier-eslint)
+- [10 - Rate Limitin](./10-rate-limiting)
